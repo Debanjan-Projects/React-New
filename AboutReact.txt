@@ -1,0 +1,69 @@
+//what is react ..
+
+//react is a free and open source javascript library specially designed for building user interface(UIs).
+
+//A library is a collection of pre-written code (functions, classes, procedures, etc.) that you can call to perform specific tasks.
+
+//A framework is a more comprehensive structure that provides a foundation for building applications. It often includes libraries, but it also defines the overall architecture and flow of your application.
+
+
+
+//developed by facebook 2011,
+//use components Model.
+//Build Modular Apps.
+
+//Learn Once Write Anywhere,,
+
+//react.
+//react is the most popular and power full front end library developed and sponsored by facebook.
+
+//component.
+
+//a component is a piece of ui that has its own logic and appearance.A componenet can be small as a buttton or large as entire page ..
+
+//learn one write anywhere..
+
+//react native ..
+//react desktop.
+
+//just create a react demo project by using , react@vite latest .
+
+
+//components  are independent and ewusable bits of code.they serve the same purpose as js functions but work in isolation and return html.
+
+*****************
+//what is jsx ..
+
+//jsx allows us to write html in react , jsx makes it easier to write and add html in react  ...
+
+
+// suppose we have some component and component returnn some html in own component ..
+
+
+//jsx soimple means , javascript xml..
+
+//how react convert the all html in react ..
+
+//go throught the babale js , for check it up ..
+
+****************
+//jsx.
+//not craete multiple , paren ..
+//for one component return only one parent  ..
+//only one div ..
+/tag must be close .
+
+..here we cant not be define a class name , by using class, always give the className together , either javascript compiler things ots a objectt  class ..
+
+//here also one things ,for any from creation we can not declare the for property , beacause javascript things its as a for loop ...
+
+
+
+**********************
+//expressions in jsx...
+
+//with jsx you can write expressions inside curly braces .the expressions can be a React variable, or property or any other valid javascript expresstion.jsx will execute the expression and return the result ..
+
+//using {} we can use the js expresssion ..
+
+//
